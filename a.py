@@ -1,1 +1,1 @@
-print("진짜 돼?")
+print("진짜 돼?\nwow")
